@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kartikay Rattan</h1>
-<h3 align="center">💻 Full-Stack Developer | C++ | JavaScript | Python | Java</h3>
+<h3 align="center">
+  💻 Full-Stack Developer <br><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kartikay-28&label=Profile%20views&color=0e75b6&style=flat" alt="kartikay-28" />
