@@ -39,16 +39,17 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikay-28&show_icons=true&theme=radical_seconds=1800" alt="GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikay-28&show_icons=true&theme=tokyonight&hide_border=true__seconds=1800" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikay-28&show_icons=true&locale=en&layout=compact&theme=radical_seconds=1800" alt="Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikay-28&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true_seconds=1800" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikay-28&" alt="streak"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikay-28&theme=tokyonight&hide_border=true_seconds=1800" alt="GitHub Streak"/>
 </p>
+
 
 ---
 
