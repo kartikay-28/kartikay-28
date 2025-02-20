@@ -25,7 +25,7 @@
 
 ### 🏆 GitHub Achievements  
 <div align="center">
-  <h2>🏆 GitHub Trophies 🏆</h2>
+  <h2 style="color: #5865F2;">🏆 GitHub Trophies 🏆</h2>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img 
       src="https://github-profile-trophy.vercel.app/?username=kartikay-28&theme=discord&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6" 
@@ -34,6 +34,8 @@
     />
   </a>
 </div>
+
+
 ---
 
 ### 🛠 Languages & Tools  
