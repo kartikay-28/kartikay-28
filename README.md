@@ -26,7 +26,7 @@
 ### 🏆 GitHub Achievements  
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kartikay-28&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=kartikay-28&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6_seconds=30" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -57,11 +57,11 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikay-28&show_icons=true&theme=tokyonight&hide_border=true__seconds=1800" alt="GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikay-28&show_icons=true&theme=tokyonight&hide_border=true__seconds=30" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikay-28&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true_seconds=1800" alt="Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikay-28&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true_seconds=30" alt="Top Languages"/>
 </p>
 
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikay-28&" alt="kartikay-28" /></p>
