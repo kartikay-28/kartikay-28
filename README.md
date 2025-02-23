@@ -68,7 +68,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikay-28&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true_seconds=3" alt="Top Languages"/>
 </p>
 
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikay-28&" alt="kartikay-28" /></p>
+<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikay-28&theme=tokyonight" alt="kartikay-28" /></p>
 
 
 ---
